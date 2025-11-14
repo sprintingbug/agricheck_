@@ -1,0 +1,4 @@
+bacterial_leaf_blight
+healthy
+leaf_blast
+tungro_virus
